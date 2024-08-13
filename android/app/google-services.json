@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752269458284",
+    "project_id": "amine-876b3",
+    "storage_bucket": "amine-876b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752269458284:android:a8fafcfc68589439515149",
+        "android_client_info": {
+          "package_name": "com.example.amine_formation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehyIWnV6UcpEDuupeLRqHKlFfOTt1c0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
